@@ -1,3 +1,4 @@
 # ITF-Lab 2018
 
-# Author : Apinya
+## Author
+Apinya Thammachai 61070258
